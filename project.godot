@@ -21,6 +21,8 @@ _global_script_class_icons={
 [application]
 
 config/name="Lotus"
+config/description="Lotus - the ultimate challenge
+"
 config/icon="res://icon.png"
 
 [gdnative]
